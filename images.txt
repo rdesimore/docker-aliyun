@@ -7,3 +7,4 @@ xhofe/alist:latest
 bestoray/pgyvpn:latest
 louislam/uptime-kuma:latest
 linkease/webvirtcloud:latest
+ypptec/nascab
