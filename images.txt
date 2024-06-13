@@ -7,4 +7,4 @@ xhofe/alist:latest
 bestoray/pgyvpn:latest
 louislam/uptime-kuma:latest
 linkease/webvirtcloud:latest
-ypptec/nascab
+--platform=linux/armv5 gdy666/lucky:latest
