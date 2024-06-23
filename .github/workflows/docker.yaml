@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule: 
     # 国际标准时间，北京时间需要+8小时
-    - cron: '0 21 * * *'
+    # - cron: '0 21 * * *'
   push:
     branches: [ main ]
 
